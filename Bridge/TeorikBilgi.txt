@@ -1,0 +1,5 @@
+﻿Soyutlanan nesne ve implementasyonun birbirinden ayrılarak düzenlenmesine olanak sağlar. Nesnenin
+değişimi impelementasyonu, implementasyonun değişimi nesneyi etkilemez. Her ikisi bağımsız olarak geliştirilebilir ve türetilen tipleri üzerinden her türlü nesne-implementasyon kombinasyonu gerçeklenebilir.
+
+Tek bir implementasyonun farklı nesneler tarafından da kullanılmasına olanak sağlar.
+Kısacası en önemli kullanım alanları eğer bir nesneyi run-time'da oluşturacaksak ve bu nesne diğer farklı nesneler tarafından kullanılacaksa bu pattern'i kullanmamız akıllıca olacaktır.

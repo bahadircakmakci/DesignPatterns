@@ -1,0 +1,6 @@
+E:\C Sharp Çalışmalar\dersler\DesignPatterns\Bridge\bin\Debug\Bridge.exe.config
+E:\C Sharp Çalışmalar\dersler\DesignPatterns\Bridge\bin\Debug\Bridge.exe
+E:\C Sharp Çalışmalar\dersler\DesignPatterns\Bridge\bin\Debug\Bridge.pdb
+E:\C Sharp Çalışmalar\dersler\DesignPatterns\Bridge\obj\Debug\Bridge.csproj.CoreCompileInputs.cache
+E:\C Sharp Çalışmalar\dersler\DesignPatterns\Bridge\obj\Debug\Bridge.exe
+E:\C Sharp Çalışmalar\dersler\DesignPatterns\Bridge\obj\Debug\Bridge.pdb
